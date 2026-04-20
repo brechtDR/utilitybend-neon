@@ -2,7 +2,8 @@
 
 A vibrant neon dark theme for VS Code, Cursor, VSCodium, and any Open VSX-compatible editor. Built from the Prism code palette used on [utilitybend.com](https://utilitybend.com), tuned for long sessions of writing HTML, CSS/SCSS, JS/TS, JSON, YAML, and Markdown.
 
-![Utilitybend Neon preview](https://raw.githubusercontent.com/brechtDR/utilitybend-neon/main/images/preview.png)
+![Utilitybend Neon TypeScript preview](https://raw.githubusercontent.com/brechtDR/utilitybend-neon/main/images/preview-ts.png)
+![Utilitybend Neon CSS preview](https://raw.githubusercontent.com/brechtDR/utilitybend-neon/main/images/preview-css.png)
 
 ## Palette
 
