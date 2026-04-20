@@ -1,0 +1,44 @@
+{
+  "name": "utilitybend-neon",
+  "displayName": "Utilitybend Neon",
+  "description": "A vibrant neon dark theme based on the utilitybend.com Prism code palette.",
+  "version": "1.0.0",
+  "publisher": "utilitybend",
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "neon",
+    "utilitybend",
+    "prism",
+    "vibrant"
+  ],
+  "galleryBanner": {
+    "color": "#0e0c16",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brechtDR/utilitybend-neon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brechtDR/utilitybend-neon/issues"
+  },
+  "homepage": "https://utilitybend.com",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Utilitybend Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/utilitybend-neon-color-theme.json"
+      }
+    ]
+  }
+}
